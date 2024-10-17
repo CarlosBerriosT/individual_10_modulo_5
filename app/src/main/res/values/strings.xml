@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">individual_10</string>
+    <string name="resetear">Resetear</string>
+    <string name="convertidor_de_divisa">Convertidor de Divisa</string>
+    <string name="conversor">Conversor</string>
+    <string name="monto">Monto</string>
+    <string name="convertir_a">Convertir a:</string>
+    <string name="total">Total</string>
+
+
+
+
+</resources>
